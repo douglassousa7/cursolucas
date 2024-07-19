@@ -1,4 +1,4 @@
 # devops
 Básico de DevOps com Git e Github no Linux Mint
 
-Douglas Sousa
+Douglas Sousa!
